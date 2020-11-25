@@ -32,10 +32,9 @@ That’s the reason I love sharing my experiences. Also, forgot to mention I lov
 
 
 # Honors & Awards 🏅
-- Global Award Finalist 
-- Global Award Nominee, Delhi Location 
+- Global Award Finalist & Global Award Nominee, Delhi Location 
 NASA Apps Space Challenge
--Samsarah- A Virtual Museum Depicting the Marvelous History of Mother Earth.
+Samsarah- A Virtual Museum Depicting the Marvelous History of Mother Earth.
 Our project is a very fun and intriguing virtual museum, which showcases the digital history of the earth, from its inception to its present, in an extremely captivating way! This project is a Virtual Reality Application, developed using Unity.
 
 - Best Award Category - ML Based Approach
