@@ -21,14 +21,15 @@
 - Something I believe in is “Knowledge is power. Knowledge shared is power multiplied.”
 That’s the reason I love sharing my experiences. Also, forgot to mention I love teaching subjects in which I have good knowledge :)
 - I have been an active leader in various professional development societies such as the ACM student chapter. I organized multiple technical events to foster collaboration in learning in youth and am always open to Collaborations!
-
+- “Only a life lived for others is a life worthwhile” - this statement is the crux of the lessons, we, as homo sapiens (wise man/woman) should apply in our lives. As a social worker, I helped organize blood donation camps with Rotaract and worked with “Kilkari”, an organization helping orphaned underage girls in New Delhi. Presently I am serving as the District Directory Editor for the international district Rotaract 3011. 
 
 
 # Now-a-days 
 - Apprendre le français
-- Researching on latest technological advancements in various domains like security, medical imaging, IoT.
-- Surviving the 5th Semester :relieved:
+- Researching on latest technological advancements in various domains like medical imaging, IoT.
+- Learning interesting subjects as part of my 6th Semester -> Cloud Computing, Artificial Intelligence, Network Programming :relieved:
 - Attending inspiring sessions from eminent professors and industry experts and broadening my learning horizon.
+- Delivering and hosting sessions under and with faculty members :) 
 
 
 # Honors & Awards 🏅
