@@ -25,14 +25,17 @@ That’s the reason I love sharing my experiences. Also, forgot to mention I lov
 
 
 # Now-a-days 
+- Mitacs Globalink Research Intern '21 @ University of Alberta, Edmonton, CA under Prof. Anup Basu.
+- Working on Deep learning based projects in the domain of sepsis, gait and NLP.
 - Apprendre le français
 - Researching on latest technological advancements in various domains like medical imaging, IoT.
-- Learning interesting subjects as part of my 6th Semester -> Cloud Computing, Artificial Intelligence, Network Programming :relieved:
+- Successfully completed interesting subjects as part of my 6th Semester -> Cloud Computing, Artificial Intelligence, Network Programming :relieved:
 - Attending inspiring sessions from eminent professors and industry experts and broadening my learning horizon.
 - Delivering and hosting sessions under and with faculty members :) 
 
 
 # Honors & Awards 🏅
+- Mitacs Globalink Research Internship 21
 - Global Award Finalist & Global Award Nominee, Delhi Location 
 NASA Apps Space Challenge
 Samsarah- A Virtual Museum Depicting the Marvelous History of Mother Earth.
