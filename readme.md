@@ -13,7 +13,7 @@
 <a href="https://www.blogger.com/blog/posts/1956956158408443520" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/blogspot%20(1).jpg)</a>
 
 
-# About me (Mein Kon hoon) :wink:? 
+# About me :wink:? 
 
 - I am an enthusiastic Pre-final year student currently pursuing my Bachelor of Technology with a specialization in IT, from Indira Gandhi Delhi Technical University for Women, India.
 - I am passionate about AI and its application to healthcare. I see my future as undertaking a deep body of research on a healthcare AI application and contributing to driving innovation in that field.
