@@ -15,7 +15,7 @@
 
 # About me :wink:? 
 
-- I am an enthusiastic Pre-final year student currently pursuing my Bachelor of Technology with a specialization in IT, from Indira Gandhi Delhi Technical University for Women, India.
+- I am an enthusiastic Final year student currently pursuing my Bachelor of Technology with a specialization in IT, from Indira Gandhi Delhi Technical University for Women, India.
 - I am passionate about AI and its application to healthcare. I see my future as undertaking a deep body of research on a healthcare AI application and contributing to driving innovation in that field.
 - Meeting new people and learning about their lives and their backgrounds gives me immense pleasure. I can almost always find common ground with strangers, and make them feel comfortable in my presence.
 - Something I believe in is “Knowledge is power. Knowledge shared is power multiplied.”
