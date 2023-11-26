@@ -25,7 +25,8 @@ That’s the reason I love sharing my experiences. Also, forgot to mention I lov
 
 
 # Now-a-days 
-- Graduate Teachin Assistant for CS 445 at university of Waterloo, Canada.
+- Graduate Teaching Assistant for CS 240 at university of Waterloo, Canada in Spring, fall 2023. 
+- Was a Graduate Teaching Assistant for CS 445 at university of Waterloo, Canada in Winter 2023.
 - Mitacs Globalink Research Intern '21 @ University of Alberta, Edmonton, CA under Prof. Anup Basu.
 - Working on Deep learning based projects in the domain of sepsis, gait and NLP.
 - Apprendre le français
