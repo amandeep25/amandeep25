@@ -52,4 +52,4 @@ My team won "Runners Up" in the Best Award Category - ML-based approach in the A
 
 
 # Wanna know more? 
-Checkout my website <a href = "http://website-amandeep.000webhostapp.com/"> here </a> for recent activities I have been doing and for certifications <a href = "https://www.linkedin.com/in/amandeep-kaur-81b677183/"> LinkedIn </a> is my escape.
+Checkout my website <a href = "[https://amandeep25.github.io/amysinghwebsite/]"> here </a> for recent activities I have been doing and for certifications <a href = "https://www.linkedin.com/in/amandeep-kaur-81b677183/"> LinkedIn </a> is my escape.
