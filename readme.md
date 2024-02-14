@@ -3,7 +3,8 @@
 
 
 # Bonjour! :wave:
-# I'm <a href="http://website-amandeep.000webhostapp.com/" > Amandeep </a>
+# I'm <a href="https://amandeep25.github.io/amysinghwebsite/" > Amandeep </a>
+
 
 <a href="https://mail.google.com/mail/u/0/?tab=wm#inbox" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/Gmail-logo%20(1)%20(1).jpg)</a>
 <a href="https://www.instagram.com/aman.ka__ur/" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/insta%20(1).jpg)</a>
