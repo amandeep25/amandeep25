@@ -15,7 +15,7 @@
 
 
 # About me :wink:? 
-- Master of Mathematics (CS) thesis based student at university of Waterloo, Canada.
+- Master of Mathematics (CS) thesis based graduate at university of Waterloo, Canada.
 - I have completed my Bachelor of Technology with a specialization in IT, from Indira Gandhi Delhi Technical University for Women, India.
 - I am passionate about AI and its application to healthcare. I see my future as undertaking a deep body of research on a healthcare AI application and contributing to driving innovation in that field.
 - Meeting new people and learning about their lives and their backgrounds gives me immense pleasure. I can almost always find common ground with strangers, and make them feel comfortable in my presence.
