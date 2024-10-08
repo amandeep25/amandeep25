@@ -14,42 +14,34 @@
 <a href="https://www.blogger.com/blog/posts/1956956158408443520" rel="some text">![This](https://github.com/amandeep25/README.md/blob/main/blogspot%20(1).jpg)</a>
 
 
-# About me :wink:? 
-- Master of Mathematics (CS) thesis based graduate at university of Waterloo, Canada.
-- I have completed my Bachelor of Technology with a specialization in IT, from Indira Gandhi Delhi Technical University for Women, India.
-- I am passionate about AI and its application to healthcare. I see my future as undertaking a deep body of research on a healthcare AI application and contributing to driving innovation in that field.
-- Meeting new people and learning about their lives and their backgrounds gives me immense pleasure. I can almost always find common ground with strangers, and make them feel comfortable in my presence.
-- Something I believe in is “Knowledge is power. Knowledge shared is power multiplied.”
-That’s the reason I love sharing my experiences. Also, forgot to mention I love teaching subjects in which I have good knowledge :)
-- I have been an active leader in various professional development societies such as the ACM student chapter. I organized multiple technical events to foster collaboration in learning in youth and am always open to Collaborations!
-- “Only a life lived for others is a life worthwhile” - this statement is the crux of the lessons, we, as homo sapiens (wise man/woman) should apply in our lives. As a social worker, I helped organize blood donation camps with Rotaract and worked with “Kilkari”, an organization helping orphaned underage girls in New Delhi. Presently I am serving as the District Directory Editor for the international district Rotaract 3011. 
+# About Me :wink:
 
+🎓 **Master of Mathematics (CS)** grad from the University of Waterloo, Canada, and YES, I GRADUATED! 🎉  
+💻 **Bachelor of Technology (IT)** from IGDTUW, India.  
+🤖 Passionate about **AI in healthcare** and eager to drive innovation in this field.  
+🌍 Love connecting with new people, learning their stories, and making everyone feel at home.  
+📚 Believer in “Knowledge is power. Knowledge shared is power multiplied.”  
+🧑‍🏫 Teaching is my passion—always happy to share what I know!  
+🤝 Active in professional societies like ACM, organizing events and fostering collaboration.  
+💙 “Only a life lived for others is a life worthwhile” inspires my work with Rotaract and "Kilkari," supporting underprivileged communities.  
 
-# Now-a-days 
-- Graduate Teaching Assistant for CS 240 at university of Waterloo, Canada in Spring, fall 2023. 
-- Was a Graduate Teaching Assistant for CS 445 at university of Waterloo, Canada in Winter 2023.
-- Mitacs Globalink Research Intern '21 @ University of Alberta, Edmonton, CA under Prof. Anup Basu.
-- Working on Deep learning based projects in the domain of sepsis, gait and NLP.
-- Apprendre le français
-- Researching on latest technological advancements in various domains like medical imaging, IoT.
-- Successfully completed interesting subjects as part of my 6th Semester -> Cloud Computing, Artificial Intelligence, Network Programming :relieved:
-- Attending inspiring sessions from eminent professors and industry experts and broadening my learning horizon.
-- Delivering and hosting sessions under and with faculty members :) 
+# What I’m Up To These Days 🚀
 
+- **I GRADUATED! 🎓🎉**
+- 🧑‍🏫 Teaching Assistant for CS courses at the University of Waterloo.  
+- 🤖 Researching **Deep Learning** applications in **sepsis**, **gait analysis**, and **NLP**.  
+- 🧠 Always learning—currently brushing up on **French**!  
+- 🌐 Exploring the latest in **medical imaging** and **IoT**.  
+- 🎓 Attending inspiring talks from professors and industry experts.  
+- 👩‍🏫 Delivering sessions with faculty members.
 
 # Honors & Awards 🏅
-- Mitacs Globalink Research Internship 21
-- Global Award Finalist & Global Award Nominee, Delhi Location 
-NASA Apps Space Challenge
-Samsarah- A Virtual Museum Depicting the Marvelous History of Mother Earth.
-Our project is a very fun and intriguing virtual museum, which showcases the digital history of the earth, from its inception to its present, in an extremely captivating way! This project is a Virtual Reality Application, developed using Unity.
 
-- Best Award Category - ML Based Approach
-My team won "Runners Up" in the Best Award Category - ML-based approach in the ACM Student Chapter - IGDTUW (Indira Gandhi Delhi Technical University for Women) Summer workshop 2020.
+- 🌍 **Mitacs Globalink Research Intern '21** @ University of Alberta.  
+- 🚀 **Global Award Finalist & Nominee** at NASA Apps Space Challenge for **Samsarah**, a virtual museum depicting Earth’s history (built in Unity).  
+- 🥈 **Runners-Up** in the Best Award Category - ML Approach at ACM Student Chapter, IGDTUW.  
+- 🏆 **General Proficiency Award** for Academic Excellence (2nd/200 in Grade 12 All India Board Exam with 9.3 GPA).
 
-- GENERAL PROFICIENCY - Award for Excellence in Academics 
-2nd/200 Grade 12 High School All India Board Exam with 9.3 GPA.
-2nd Science Topper in School
 
 
 # Wanna know more? 
