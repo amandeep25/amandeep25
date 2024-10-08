@@ -28,6 +28,7 @@
 # What I’m Up To These Days 🚀
 
 - **I GRADUATED! 🎓🎉**
+- 🤖 JOB HUNT JOB HUNT 🤖
 - 🧑‍🏫 Teaching Assistant for CS courses at the University of Waterloo.  
 - 🤖 Researching **Deep Learning** applications in **sepsis**, **gait analysis**, and **NLP**.  
 - 🧠 Always learning—currently brushing up on **French**!  
